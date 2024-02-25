@@ -1,0 +1,6 @@
+1.maine different color scheme dark mode aur light mode ke liye di hain
+2.fromargb mein na is known as alpha jo transparency ka maapak hota hain
+3.material app responsible hai different themes ke liye
+4.Expenses class ko stateful wodget isliye banayi hain bcoz usme runtime pe new cheezein add ho rhi hain
+5.
+
