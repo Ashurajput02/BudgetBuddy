@@ -14,7 +14,7 @@ name: "Build and Release"
 jobs:
   build:
     name: "Build and Release"
-    runs-on: macos-latest
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v2
